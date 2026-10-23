@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\bin\Debug\net8.0\GuildManagementSystem.exe
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\bin\Debug\net8.0\GuildManagementSystem.deps.json
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\bin\Debug\net8.0\GuildManagementSystem.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\bin\Debug\net8.0\GuildManagementSystem.dll
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\bin\Debug\net8.0\GuildManagementSystem.pdb
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\GuildManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\GuildManagementSystem.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\GuildManagementSystem.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\GuildManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\GuildManagementSystem.dll
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\refint\GuildManagementSystem.dll
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\GuildManagementSystem.pdb
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\GuildManagementSystem.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\GuildManagementSystem\GuildManagementSystem\obj\Debug\net8.0\ref\GuildManagementSystem.dll
